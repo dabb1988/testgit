@@ -1,0 +1,22 @@
+{
+  "name": "tujiaqiang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabb1988/testgit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabb1988/testgit/issues"
+  },
+  "homepage": "https://github.com/dabb1988/testgit#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0"
+  }
+}
